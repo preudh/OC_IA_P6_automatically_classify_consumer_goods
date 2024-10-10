@@ -44,8 +44,6 @@ caractéristiques et le clustering.
 Voici la liste des principales bibliothèques dans votre environnement Python à installer via pip (anaconda est déconseillé pour gérer
 les dépendances) :
 
-Voici une liste des bibliothèques les plus importantes parmi celles que vous avez mentionnées, en fonction de leur usage courant dans les projets de machine learning et de développement général :
-
 ### Bibliothèques essentielles :
 - **numpy** : Bibliothèque fondamentale pour le calcul numérique avec Python.
 - **pandas** : Outil clé pour la manipulation et l'analyse des données, notamment pour les DataFrames.
